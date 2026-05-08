@@ -3,6 +3,9 @@
 
 using namespace std;
 
+// Pilha
+// O último que sai é o primeiro a sair.
+
 int main() {
 
     stack<int> playerIDs;
